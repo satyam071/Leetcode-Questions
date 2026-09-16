@@ -30,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/satyam071/Leetcode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/satyam071/Leetcode-Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/satyam071/Leetcode-Questions/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/satyam071/Leetcode-Questions/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/satyam071/Leetcode-Questions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
